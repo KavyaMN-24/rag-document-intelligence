@@ -1,0 +1,78 @@
+
+[
+  {
+    "question": "What is Retrieval-Augmented Generation?",
+    "expected_page": 1,
+    "answerable": true,
+    "expected_answer": "RAG combines information retrieval with large language models.",
+    "expected_keywords": [
+      "retrieval",
+      "large language models",
+      "external documents"
+    ]
+  },
+  {
+    "question": "How does RAG help language models answer questions?",
+    "expected_page": 1,
+    "answerable": true,
+    "expected_answer": "RAG retrieves relevant information from external documents before generating an answer, helping language models use specific document content.",
+    "expected_keywords": [
+    
+      "retrieves relevant information",
+      "external documents",
+      "specific document data"
+    ]
+  },
+  {
+    "question": "What are vector databases used for?",
+    "expected_page": 2,
+    "answerable": true,
+    "expected_answer": "Vector databases store numerical representations of text called embeddings.",
+    "expected_keywords": [
+      "embeddings",
+      "semantic similarity search"
+    ]
+  
+  },
+  {
+    "question": "What is ChromaDB?",
+    "expected_page": 2,
+    "answerable": true,
+    "expected_answer": "ChromaDB is a vector database that supports semantic similarity search.",
+    "expected_keywords": [
+      "vector database",
+      "semantic similarity search"
+    ]
+  },
+  {
+    "question": "Can Sentence Transformers generate embeddings without a paid API?",
+    "expected_page": 2,
+    "answerable": true,
+    "expected_answer": "Sentence Transformers can generate embeddings locally without requiring a paid API.",
+    "expected_keywords": [
+      "locally",
+      "without requiring a paid API"
+    ]
+  },
+  {
+    "question": "What is the company's annual revenue?",
+    "expected_page": null,
+    "answerable": false,
+    "expected_answer": null,
+    "expected_keywords": []
+  },
+  {
+    "question": "Who founded ChromaDB?",
+    "expected_page": null,
+    "answerable": false,
+    "expected_answer": null,
+    "expected_keywords": []
+  },
+  {
+    "question": "What programming language was used to develop ChromaDB?",
+    "expected_page": null,
+    "answerable": false,
+    "expected_answer": null,
+    "expected_keywords": []
+  }
+]
