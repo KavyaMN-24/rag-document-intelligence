@@ -55,6 +55,24 @@ flowchart TD
 | Version control | Git and GitHub |
 
 ## Key Features
+## Project Screenshots
+
+### FastAPI Documentation
+The API exposes endpoints for uploading PDF documents and asking questions.
+
+![FastAPI Swagger UI](docs/images/api-docs.png)
+
+### RAG Question Answering
+The system retrieves relevant document passages and generates answers with source-page references.
+
+![RAG Answer](docs/images/rag-answer.png)
+
+### Evaluation Results
+Baseline retrieval and answer-quality evaluation on the included sample document.
+
+### Final Evaluation Results
+
+[![Final Evaluation Results](docs/images/final-evaluation1.png)](docs/images/final-evaluation2.png)
 
 ### Document Processing
 - PDF text extraction with page-number preservation.
