@@ -72,7 +72,7 @@ Baseline retrieval and answer-quality evaluation on the included sample document
 
 ### Final Evaluation Results
 
-[![Final Evaluation Results](docs/images/final-evaluation1.png)](docs/images/final-evaluation2.png)
+[![Final Evaluation Results](docs/images/final-evaluation2.png)](docs/images/final-evaluation1.png)
 
 ### Document Processing
 - PDF text extraction with page-number preservation.
