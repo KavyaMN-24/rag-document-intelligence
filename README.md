@@ -72,8 +72,10 @@ Baseline retrieval and answer-quality evaluation on the included sample document
 
 ### Final Evaluation Results
 
-[![Final Evaluation Results](docs/images/final-evaluation2.png)](docs/images/final-evaluation1.png)
+[![Final Evaluation Results1](docs/images/final-evaluation1.png)]
 
+
+[![Final Evaluation Results2](docs/images/final-evaluation2.png)]
 ### Document Processing
 - PDF text extraction with page-number preservation.
 - Configurable text chunking and overlap.
